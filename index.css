@@ -35,9 +35,10 @@
     font-size:2rem;
     border:3mm;
     border-style:double;
-    color:rgb(255, 255, 255);
+    color:rgb(241, 245, 6);
     border-color: rgb(231, 210, 17);
     border-radius: 100%;
+    background-color: #000;
 }
 .banner::before{
     position:absolute ;
@@ -58,9 +59,9 @@
     cursor:pointer;
 }
 
-.recipe_div{
-    height: 50vh;
-    width: 50;
+.recipe_div,{
+    height: 1000vh;
+    width: 200vh;
     background:var(--blue);
     color-scheme:inherit;
     display: flex;
