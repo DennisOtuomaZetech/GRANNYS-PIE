@@ -14,13 +14,13 @@
 .banner a{
     text-decoration:wavy;
     color:rgb(2, 1, 1);
-    font-size: 180%;
+    font-size: 200%;
     font-style:italic;
 }
 .banner h1{
-    font-size:4rem;
+    font-size:6rem;
     color: rgb(245, 247, 245);
-    border:3mm;
+    border:6mm;
     border-style:double;
     border-color: rgb(244, 248, 8);
     text-decoration:double;
@@ -50,7 +50,7 @@
     z-index:-1;
 }
 .banner button{
-    padding:.3rem 3rem;
+    padding:.7rem 4rem;
     background:#f3db05;
     border:rgb(243, 239, 239);
     border-style:double;
