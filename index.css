@@ -60,15 +60,15 @@
 }
 
 .recipe_div,{
-    height: 1000vh;
-    width: 200vh;
+    height:1000vh;
+    width:200vh;
     background:var(--blue);
     color-scheme:inherit;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
 }
 
 .recipe_div h1{
